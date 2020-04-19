@@ -18,5 +18,5 @@ class Dog
       print @name
     end
   end
-  
+
 end
